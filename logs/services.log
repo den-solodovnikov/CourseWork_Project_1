@@ -1,0 +1,22 @@
+2026-05-11 13:52:01,897 - [INFO] - services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 13:52:01,899 - [INFO] - services - (services.py).search_by_individual(52) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:55:45,687 - [INFO] - services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 13:55:45,687 - [ERROR] - services - (services.py).search_by_individual(49) - Произошла ошибка: 'str' object has no attribute 'get'
+2026-05-11 13:55:45,687 - [INFO] - services - (services.py).search_by_individual(52) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:57:51,101 - [INFO] - services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 13:57:51,102 - [INFO] - services - (services.py).search_by_individual(52) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:05:39,134 - [INFO] - services - (services.py).search_by_individual(43) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:05:39,135 - [ERROR] - services - (services.py).search_by_individual(51) - Произошла ошибка: 'list' object has no attribute 'get'
+2026-05-11 14:05:39,135 - [INFO] - services - (services.py).search_by_individual(54) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:22:25,809 - [INFO] - services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:22:25,810 - [ERROR] - services - (services.py).search_by_individual(52) - Произошла ошибка: 'list' object has no attribute 'get'
+2026-05-11 14:22:25,810 - [INFO] - services - (services.py).search_by_individual(55) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:23:14,633 - [INFO] - services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:23:14,633 - [ERROR] - services - (services.py).search_by_individual(52) - Произошла ошибка: 'str' object has no attribute 'get'
+2026-05-11 14:23:14,633 - [INFO] - services - (services.py).search_by_individual(55) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:23:30,843 - [INFO] - services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:23:30,844 - [INFO] - services - (services.py).search_by_individual(55) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:23:57,313 - [INFO] - services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:23:57,318 - [INFO] - services - (services.py).search_by_individual(57) - Транзакции найдены
+2026-05-11 14:24:54,863 - [INFO] - services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:24:54,867 - [INFO] - services - (services.py).search_by_individual(57) - Транзакции найдены
