@@ -1,0 +1,169 @@
+2026-05-11 13:31:27,380 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:31:27,381 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:32:40,340 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:32:40,341 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:32:40,513 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:32:40,513 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:42:28,565 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:42:28,565 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:42:28,570 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:42:28,571 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:42:28,591 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: 
+2026-05-11 13:42:28,591 - [INFO] - src.services - (services.py).search_description(31) - Транзакции найдены
+2026-05-11 13:42:48,988 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:42:48,988 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:42:48,997 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:42:48,998 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:42:48,998 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:42:48,998 - [INFO] - src.services - (services.py).search_description(31) - Транзакции найдены
+2026-05-11 13:45:23,934 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:45:23,934 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:45:23,939 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:45:23,939 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:45:23,939 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:45:23,940 - [INFO] - src.services - (services.py).search_description(31) - Транзакции найдены
+2026-05-11 13:46:50,704 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:46:50,705 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:46:50,709 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:46:50,710 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:46:50,710 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:46:50,710 - [INFO] - src.services - (services.py).search_description(31) - Транзакции найдены
+2026-05-11 13:47:20,296 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:47:20,298 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:47:20,302 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:47:20,302 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:47:20,303 - [INFO] - src.services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 13:47:20,305 - [INFO] - src.services - (services.py).search_by_individual(52) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:47:20,305 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:47:20,306 - [INFO] - src.services - (services.py).search_description(31) - Транзакции найдены
+2026-05-11 13:49:54,687 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:49:54,688 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:49:54,693 - [INFO] - src.services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 13:49:54,693 - [INFO] - src.services - (services.py).search_by_individual(52) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:49:54,693 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:49:54,693 - [INFO] - src.services - (services.py).search_description(31) - Транзакции найдены
+2026-05-11 13:56:56,469 - [INFO] - src.services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 13:56:56,470 - [ERROR] - src.services - (services.py).search_by_individual(49) - Произошла ошибка: 'str' object has no attribute 'get'
+2026-05-11 13:56:56,470 - [INFO] - src.services - (services.py).search_by_individual(52) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:56:56,475 - [INFO] - src.services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 13:56:56,475 - [INFO] - src.services - (services.py).search_by_individual(54) - Транзакции найдены
+2026-05-11 13:56:56,475 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 13:56:56,475 - [INFO] - src.services - (services.py).search_description(31) - Транзакции найдены
+2026-05-11 14:34:34,772 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:34:34,796 - [INFO] - src.services - (services.py).search_by_individual(57) - Транзакции найдены
+2026-05-11 14:34:34,797 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:34:34,797 - [INFO] - src.services - (services.py).search_by_individual(57) - Транзакции найдены
+2026-05-11 14:39:30,479 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 14:39:30,480 - [INFO] - src.services - (services.py).search_description(32) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:39:30,480 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 14:39:30,480 - [INFO] - src.services - (services.py).search_description(34) - Транзакции найдены
+2026-05-11 14:39:30,482 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:39:30,483 - [ERROR] - src.services - (services.py).search_by_individual(52) - Произошла ошибка: 'FixtureFunctionDefinition' object is not iterable
+2026-05-11 14:39:30,483 - [INFO] - src.services - (services.py).search_by_individual(55) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:39:30,483 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:39:30,483 - [ERROR] - src.services - (services.py).search_by_individual(52) - Произошла ошибка: 'FixtureFunctionDefinition' object is not iterable
+2026-05-11 14:39:30,483 - [INFO] - src.services - (services.py).search_by_individual(55) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:40:24,281 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 14:40:24,281 - [INFO] - src.services - (services.py).search_description(32) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:40:24,281 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 14:40:24,282 - [INFO] - src.services - (services.py).search_description(34) - Транзакции найдены
+2026-05-11 14:40:34,144 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:40:34,147 - [ERROR] - src.services - (services.py).search_by_individual(52) - Произошла ошибка: 'FixtureFunctionDefinition' object is not iterable
+2026-05-11 14:40:34,148 - [INFO] - src.services - (services.py).search_by_individual(55) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:40:34,148 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:40:34,149 - [ERROR] - src.services - (services.py).search_by_individual(52) - Произошла ошибка: 'FixtureFunctionDefinition' object is not iterable
+2026-05-11 14:40:34,149 - [INFO] - src.services - (services.py).search_by_individual(55) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:40:52,016 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:40:52,017 - [INFO] - src.services - (services.py).search_by_individual(57) - Транзакции найдены
+2026-05-11 14:41:11,787 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 14:41:11,787 - [INFO] - src.services - (services.py).search_description(32) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:41:11,788 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 14:41:11,788 - [INFO] - src.services - (services.py).search_description(34) - Транзакции найдены
+2026-05-11 14:41:17,591 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:41:17,592 - [INFO] - src.services - (services.py).search_by_individual(57) - Транзакции найдены
+2026-05-11 14:41:25,279 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 14:41:25,279 - [INFO] - src.services - (services.py).search_description(32) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:41:25,280 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 14:41:25,280 - [INFO] - src.services - (services.py).search_description(34) - Транзакции найдены
+2026-05-11 14:41:25,283 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:41:25,284 - [INFO] - src.services - (services.py).search_by_individual(57) - Транзакции найдены
+2026-05-11 14:42:20,362 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 14:42:20,363 - [INFO] - src.services - (services.py).search_description(32) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:42:20,363 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 14:42:20,363 - [INFO] - src.services - (services.py).search_description(34) - Транзакции найдены
+2026-05-11 14:42:20,365 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:42:20,366 - [INFO] - src.services - (services.py).search_by_individual(55) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:42:20,366 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:42:20,366 - [INFO] - src.services - (services.py).search_by_individual(57) - Транзакции найдены
+2026-05-11 14:44:51,918 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 14:44:51,918 - [INFO] - src.services - (services.py).search_description(32) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:44:51,918 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 14:44:51,918 - [INFO] - src.services - (services.py).search_description(34) - Транзакции найдены
+2026-05-11 14:44:51,920 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:44:51,920 - [INFO] - src.services - (services.py).search_by_individual(55) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:44:51,920 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 14:44:51,920 - [INFO] - src.services - (services.py).search_by_individual(57) - Транзакции найдены
+2026-05-11 16:03:15,141 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 16:03:15,141 - [INFO] - src.services - (services.py).search_description(32) - Не найдены транзакции с указанными параметрами.
+2026-05-11 16:03:15,141 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 16:03:15,141 - [INFO] - src.services - (services.py).search_description(34) - Транзакции найдены
+2026-05-11 16:03:15,143 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 16:03:15,143 - [INFO] - src.services - (services.py).search_by_individual(55) - Не найдены транзакции с указанными параметрами.
+2026-05-11 16:03:15,143 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 16:03:15,143 - [INFO] - src.services - (services.py).search_by_individual(57) - Транзакции найдены
+2026-05-11 16:09:45,102 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 16:09:45,102 - [INFO] - src.services - (services.py).search_description(32) - Не найдены транзакции с указанными параметрами.
+2026-05-11 16:09:45,102 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 16:09:45,102 - [INFO] - src.services - (services.py).search_description(34) - Транзакции найдены
+2026-05-11 16:09:45,104 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 16:09:45,105 - [INFO] - src.services - (services.py).search_by_individual(55) - Не найдены транзакции с указанными параметрами.
+2026-05-11 16:09:45,105 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 16:09:45,105 - [INFO] - src.services - (services.py).search_by_individual(57) - Транзакции найдены
+2026-05-11 16:44:50,034 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 16:44:50,034 - [INFO] - src.services - (services.py).search_description(32) - Не найдены транзакции с указанными параметрами.
+2026-05-11 16:44:50,034 - [INFO] - src.services - (services.py).search_description(22) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 16:44:50,034 - [INFO] - src.services - (services.py).search_description(34) - Транзакции найдены
+2026-05-11 16:44:50,036 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 16:44:50,037 - [INFO] - src.services - (services.py).search_by_individual(55) - Не найдены транзакции с указанными параметрами.
+2026-05-11 16:44:50,037 - [INFO] - src.services - (services.py).search_by_individual(44) - Запуск поиска транзакций по физ.лицам
+2026-05-11 16:44:50,037 - [INFO] - src.services - (services.py).search_by_individual(57) - Транзакции найдены
+2026-05-11 18:03:56,472 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 18:03:56,494 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 18:03:56,494 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 18:03:56,494 - [INFO] - src.services - (services.py).search_description(31) - Транзакции найдены
+2026-05-11 18:03:56,496 - [INFO] - src.services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 18:03:56,496 - [INFO] - src.services - (services.py).search_by_individual(52) - Не найдены транзакции с указанными параметрами.
+2026-05-11 18:03:56,496 - [INFO] - src.services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 18:03:56,496 - [INFO] - src.services - (services.py).search_by_individual(54) - Транзакции найдены
+2026-05-11 18:13:29,070 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 18:13:29,070 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 18:13:29,070 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 18:13:29,070 - [INFO] - src.services - (services.py).search_description(31) - Транзакции найдены
+2026-05-11 18:13:29,071 - [INFO] - src.services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 18:13:29,071 - [INFO] - src.services - (services.py).search_by_individual(52) - Не найдены транзакции с указанными параметрами.
+2026-05-11 18:13:29,072 - [INFO] - src.services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 18:13:29,072 - [INFO] - src.services - (services.py).search_by_individual(54) - Транзакции найдены
+2026-05-11 18:15:13,053 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 18:15:13,053 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 18:15:13,053 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 18:15:13,053 - [INFO] - src.services - (services.py).search_description(31) - Транзакции найдены
+2026-05-11 18:15:13,054 - [INFO] - src.services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 18:15:13,055 - [INFO] - src.services - (services.py).search_by_individual(52) - Не найдены транзакции с указанными параметрами.
+2026-05-11 18:15:13,055 - [INFO] - src.services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 18:15:13,055 - [INFO] - src.services - (services.py).search_by_individual(54) - Транзакции найдены
+2026-05-11 18:18:03,902 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 18:18:03,902 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 18:18:03,903 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 18:18:03,903 - [INFO] - src.services - (services.py).search_description(31) - Транзакции найдены
+2026-05-11 18:18:03,904 - [INFO] - src.services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 18:18:03,904 - [INFO] - src.services - (services.py).search_by_individual(52) - Не найдены транзакции с указанными параметрами.
+2026-05-11 18:18:03,904 - [INFO] - src.services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 18:18:03,904 - [INFO] - src.services - (services.py).search_by_individual(54) - Транзакции найдены
+2026-05-11 18:19:06,493 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 18:19:06,494 - [INFO] - src.services - (services.py).search_description(29) - Не найдены транзакции с указанными параметрами.
+2026-05-11 18:19:06,494 - [INFO] - src.services - (services.py).search_description(19) - Запуск простого поиска транзакций по строке: перевод
+2026-05-11 18:19:06,494 - [INFO] - src.services - (services.py).search_description(31) - Транзакции найдены
+2026-05-11 18:19:06,496 - [INFO] - src.services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 18:19:06,496 - [INFO] - src.services - (services.py).search_by_individual(52) - Не найдены транзакции с указанными параметрами.
+2026-05-11 18:19:06,496 - [INFO] - src.services - (services.py).search_by_individual(41) - Запуск поиска транзакций по физ.лицам
+2026-05-11 18:19:06,497 - [INFO] - src.services - (services.py).search_by_individual(54) - Транзакции найдены

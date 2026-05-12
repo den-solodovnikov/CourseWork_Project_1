@@ -1,0 +1,269 @@
+2026-05-11 13:24:58,817 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 13:24:58,817 - [INFO] - src.reports - (reports.py).spending_by_category(56) - Дата не указана, устанавливаем текущую: 2026-05-11 13:24:58.817851
+2026-05-11 13:24:58,818 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2026-02-11 13:24:58.817851
+2026-05-11 13:24:58,835 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: перевод
+2026-05-11 13:24:58,840 - [INFO] - src.reports - (reports.py).spending_by_category(69) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:24:58,840 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 13:24:58,841 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 13:24:58,842 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 13:24:58,842 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 13:31:27,507 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 13:31:27,507 - [INFO] - src.reports - (reports.py).spending_by_category(56) - Дата не указана, устанавливаем текущую: 2026-05-11 13:31:27.507702
+2026-05-11 13:31:27,508 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2026-02-11 13:31:27.507702
+2026-05-11 13:31:27,509 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Перевод
+2026-05-11 13:31:27,512 - [INFO] - src.reports - (reports.py).spending_by_category(69) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:31:27,512 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 13:31:27,516 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 13:31:27,516 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 13:31:27,516 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 13:31:27,516 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 13:31:27,517 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 13:31:27,517 - [INFO] - src.reports - (reports.py).spending_by_category(59) - Указана дата: 2020-06-05 00:00:00
+2026-05-11 13:31:27,517 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2020-03-05 00:00:00
+2026-05-11 13:31:27,519 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Супермаркет
+2026-05-11 13:31:27,521 - [INFO] - src.reports - (reports.py).spending_by_category(71) - Найдены транзакции. Передаются для записи в файл.
+2026-05-11 13:31:27,521 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 13:31:27,522 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 13:31:27,522 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 13:31:27,522 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 13:31:27,522 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 13:32:40,476 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 13:32:40,476 - [INFO] - src.reports - (reports.py).spending_by_category(56) - Дата не указана, устанавливаем текущую: 2026-05-11 13:32:40.476682
+2026-05-11 13:32:40,476 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2026-02-11 13:32:40.476682
+2026-05-11 13:32:40,478 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Перевод
+2026-05-11 13:32:40,501 - [INFO] - src.reports - (reports.py).spending_by_category(69) - Не найдены транзакции с указанными параметрами.
+2026-05-11 13:32:40,501 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 13:32:40,504 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 13:32:40,504 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 13:32:40,504 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 13:32:40,505 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 13:32:40,505 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 13:32:40,506 - [INFO] - src.reports - (reports.py).spending_by_category(59) - Указана дата: 2020-06-05 00:00:00
+2026-05-11 13:32:40,506 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2020-03-05 00:00:00
+2026-05-11 13:32:40,507 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Супермаркет
+2026-05-11 13:32:40,509 - [INFO] - src.reports - (reports.py).spending_by_category(71) - Найдены транзакции. Передаются для записи в файл.
+2026-05-11 13:32:40,509 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 13:32:40,510 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 13:32:40,510 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 13:32:40,510 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 13:32:40,510 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 14:41:25,238 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 14:41:25,240 - [INFO] - src.reports - (reports.py).spending_by_category(56) - Дата не указана, устанавливаем текущую: 2026-05-11 14:41:25.240054
+2026-05-11 14:41:25,240 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2026-02-11 14:41:25.240054
+2026-05-11 14:41:25,260 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Перевод
+2026-05-11 14:41:25,263 - [INFO] - src.reports - (reports.py).spending_by_category(69) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:41:25,263 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 14:41:25,266 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 14:41:25,266 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 14:41:25,267 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 14:41:25,267 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 14:41:25,267 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 14:41:25,268 - [INFO] - src.reports - (reports.py).spending_by_category(59) - Указана дата: 2020-06-05 00:00:00
+2026-05-11 14:41:25,268 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2020-03-05 00:00:00
+2026-05-11 14:41:25,269 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Супермаркет
+2026-05-11 14:41:25,274 - [INFO] - src.reports - (reports.py).spending_by_category(71) - Найдены транзакции. Передаются для записи в файл.
+2026-05-11 14:41:25,274 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 14:41:25,275 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 14:41:25,275 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 14:41:25,275 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 14:41:25,275 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 14:42:20,342 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 14:42:20,343 - [INFO] - src.reports - (reports.py).spending_by_category(56) - Дата не указана, устанавливаем текущую: 2026-05-11 14:42:20.343891
+2026-05-11 14:42:20,344 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2026-02-11 14:42:20.343891
+2026-05-11 14:42:20,345 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Перевод
+2026-05-11 14:42:20,347 - [INFO] - src.reports - (reports.py).spending_by_category(69) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:42:20,347 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 14:42:20,351 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 14:42:20,351 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 14:42:20,352 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 14:42:20,352 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 14:42:20,353 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 14:42:20,353 - [INFO] - src.reports - (reports.py).spending_by_category(59) - Указана дата: 2020-06-05 00:00:00
+2026-05-11 14:42:20,353 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2020-03-05 00:00:00
+2026-05-11 14:42:20,355 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Супермаркет
+2026-05-11 14:42:20,358 - [INFO] - src.reports - (reports.py).spending_by_category(71) - Найдены транзакции. Передаются для записи в файл.
+2026-05-11 14:42:20,358 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 14:42:20,358 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 14:42:20,358 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 14:42:20,359 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 14:42:20,359 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 14:44:51,898 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 14:44:51,899 - [INFO] - src.reports - (reports.py).spending_by_category(56) - Дата не указана, устанавливаем текущую: 2026-05-11 14:44:51.899706
+2026-05-11 14:44:51,899 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2026-02-11 14:44:51.899706
+2026-05-11 14:44:51,901 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Перевод
+2026-05-11 14:44:51,903 - [INFO] - src.reports - (reports.py).spending_by_category(69) - Не найдены транзакции с указанными параметрами.
+2026-05-11 14:44:51,903 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 14:44:51,906 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 14:44:51,906 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 14:44:51,906 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 14:44:51,906 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 14:44:51,907 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 14:44:51,907 - [INFO] - src.reports - (reports.py).spending_by_category(59) - Указана дата: 2020-06-05 00:00:00
+2026-05-11 14:44:51,908 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2020-03-05 00:00:00
+2026-05-11 14:44:51,910 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Супермаркет
+2026-05-11 14:44:51,913 - [INFO] - src.reports - (reports.py).spending_by_category(71) - Найдены транзакции. Передаются для записи в файл.
+2026-05-11 14:44:51,913 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 14:44:51,914 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 14:44:51,914 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 14:44:51,914 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 14:44:51,914 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 16:03:15,123 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 16:03:15,124 - [INFO] - src.reports - (reports.py).spending_by_category(56) - Дата не указана, устанавливаем текущую: 2026-05-11 16:03:15.124881
+2026-05-11 16:03:15,125 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2026-02-11 16:03:15.124881
+2026-05-11 16:03:15,126 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Перевод
+2026-05-11 16:03:15,127 - [INFO] - src.reports - (reports.py).spending_by_category(69) - Не найдены транзакции с указанными параметрами.
+2026-05-11 16:03:15,127 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 16:03:15,131 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 16:03:15,131 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 16:03:15,131 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 16:03:15,131 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 16:03:15,132 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 16:03:15,133 - [INFO] - src.reports - (reports.py).spending_by_category(59) - Указана дата: 2020-06-05 00:00:00
+2026-05-11 16:03:15,133 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2020-03-05 00:00:00
+2026-05-11 16:03:15,135 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Супермаркет
+2026-05-11 16:03:15,137 - [INFO] - src.reports - (reports.py).spending_by_category(71) - Найдены транзакции. Передаются для записи в файл.
+2026-05-11 16:03:15,137 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 16:03:15,137 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 16:03:15,137 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 16:03:15,138 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 16:03:15,138 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 16:09:45,083 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 16:09:45,085 - [INFO] - src.reports - (reports.py).spending_by_category(56) - Дата не указана, устанавливаем текущую: 2026-05-11 16:09:45.085378
+2026-05-11 16:09:45,085 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2026-02-11 16:09:45.085378
+2026-05-11 16:09:45,087 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Перевод
+2026-05-11 16:09:45,089 - [INFO] - src.reports - (reports.py).spending_by_category(69) - Не найдены транзакции с указанными параметрами.
+2026-05-11 16:09:45,089 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 16:09:45,092 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 16:09:45,093 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 16:09:45,093 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 16:09:45,093 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 16:09:45,093 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 16:09:45,094 - [INFO] - src.reports - (reports.py).spending_by_category(59) - Указана дата: 2020-06-05 00:00:00
+2026-05-11 16:09:45,094 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2020-03-05 00:00:00
+2026-05-11 16:09:45,095 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Супермаркет
+2026-05-11 16:09:45,097 - [INFO] - src.reports - (reports.py).spending_by_category(71) - Найдены транзакции. Передаются для записи в файл.
+2026-05-11 16:09:45,097 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 16:09:45,097 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 16:09:45,097 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 16:09:45,097 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 16:09:45,098 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 16:44:50,013 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 16:44:50,014 - [INFO] - src.reports - (reports.py).spending_by_category(56) - Дата не указана, устанавливаем текущую: 2026-05-11 16:44:50.014415
+2026-05-11 16:44:50,014 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2026-02-11 16:44:50.014415
+2026-05-11 16:44:50,015 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Перевод
+2026-05-11 16:44:50,021 - [INFO] - src.reports - (reports.py).spending_by_category(69) - Не найдены транзакции с указанными параметрами.
+2026-05-11 16:44:50,021 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 16:44:50,025 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 16:44:50,025 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 16:44:50,025 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 16:44:50,026 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 16:44:50,026 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 16:44:50,027 - [INFO] - src.reports - (reports.py).spending_by_category(59) - Указана дата: 2020-06-05 00:00:00
+2026-05-11 16:44:50,027 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2020-03-05 00:00:00
+2026-05-11 16:44:50,028 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Супермаркет
+2026-05-11 16:44:50,030 - [INFO] - src.reports - (reports.py).spending_by_category(71) - Найдены транзакции. Передаются для записи в файл.
+2026-05-11 16:44:50,030 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 16:44:50,030 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 16:44:50,030 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 16:44:50,030 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 16:44:50,031 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 18:03:56,390 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 18:03:56,429 - [INFO] - src.reports - (reports.py).spending_by_category(56) - Дата не указана, устанавливаем текущую: 2026-05-11 18:03:56.429321
+2026-05-11 18:03:56,429 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2026-02-11 18:03:56.429321
+2026-05-11 18:03:56,431 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Перевод
+2026-05-11 18:03:56,460 - [INFO] - src.reports - (reports.py).spending_by_category(69) - Не найдены транзакции с указанными параметрами.
+2026-05-11 18:03:56,460 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 18:03:56,464 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 18:03:56,464 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 18:03:56,464 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 18:03:56,464 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 18:03:56,465 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 18:03:56,465 - [INFO] - src.reports - (reports.py).spending_by_category(59) - Указана дата: 2020-06-05 00:00:00
+2026-05-11 18:03:56,465 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2020-03-05 00:00:00
+2026-05-11 18:03:56,467 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Супермаркет
+2026-05-11 18:03:56,468 - [INFO] - src.reports - (reports.py).spending_by_category(71) - Найдены транзакции. Передаются для записи в файл.
+2026-05-11 18:03:56,469 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 18:03:56,469 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 18:03:56,469 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 18:03:56,469 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 18:03:56,469 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 18:13:29,040 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 18:13:29,041 - [INFO] - src.reports - (reports.py).spending_by_category(56) - Дата не указана, устанавливаем текущую: 2026-05-11 18:13:29.041375
+2026-05-11 18:13:29,041 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2026-02-11 18:13:29.041375
+2026-05-11 18:13:29,057 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Перевод
+2026-05-11 18:13:29,058 - [INFO] - src.reports - (reports.py).spending_by_category(69) - Не найдены транзакции с указанными параметрами.
+2026-05-11 18:13:29,058 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 18:13:29,062 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 18:13:29,062 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 18:13:29,062 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 18:13:29,062 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 18:13:29,062 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 18:13:29,063 - [INFO] - src.reports - (reports.py).spending_by_category(59) - Указана дата: 2020-06-05 00:00:00
+2026-05-11 18:13:29,063 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2020-03-05 00:00:00
+2026-05-11 18:13:29,064 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Супермаркет
+2026-05-11 18:13:29,066 - [INFO] - src.reports - (reports.py).spending_by_category(71) - Найдены транзакции. Передаются для записи в файл.
+2026-05-11 18:13:29,066 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 18:13:29,066 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 18:13:29,066 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 18:13:29,067 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 18:13:29,067 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 18:15:13,034 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 18:15:13,036 - [INFO] - src.reports - (reports.py).spending_by_category(56) - Дата не указана, устанавливаем текущую: 2026-05-11 18:15:13.036103
+2026-05-11 18:15:13,036 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2026-02-11 18:15:13.036103
+2026-05-11 18:15:13,038 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Перевод
+2026-05-11 18:15:13,041 - [INFO] - src.reports - (reports.py).spending_by_category(69) - Не найдены транзакции с указанными параметрами.
+2026-05-11 18:15:13,041 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 18:15:13,044 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 18:15:13,044 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 18:15:13,044 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 18:15:13,045 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 18:15:13,045 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 18:15:13,046 - [INFO] - src.reports - (reports.py).spending_by_category(59) - Указана дата: 2020-06-05 00:00:00
+2026-05-11 18:15:13,046 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2020-03-05 00:00:00
+2026-05-11 18:15:13,047 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Супермаркет
+2026-05-11 18:15:13,049 - [INFO] - src.reports - (reports.py).spending_by_category(71) - Найдены транзакции. Передаются для записи в файл.
+2026-05-11 18:15:13,049 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 18:15:13,049 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 18:15:13,049 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 18:15:13,050 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 18:15:13,050 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 18:18:03,885 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 18:18:03,886 - [INFO] - src.reports - (reports.py).spending_by_category(56) - Дата не указана, устанавливаем текущую: 2026-05-11 18:18:03.886154
+2026-05-11 18:18:03,886 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2026-02-11 18:18:03.886154
+2026-05-11 18:18:03,887 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Перевод
+2026-05-11 18:18:03,889 - [INFO] - src.reports - (reports.py).spending_by_category(69) - Не найдены транзакции с указанными параметрами.
+2026-05-11 18:18:03,889 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 18:18:03,893 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 18:18:03,893 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 18:18:03,893 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 18:18:03,893 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 18:18:03,894 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 18:18:03,895 - [INFO] - src.reports - (reports.py).spending_by_category(59) - Указана дата: 2020-06-05 00:00:00
+2026-05-11 18:18:03,895 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2020-03-05 00:00:00
+2026-05-11 18:18:03,897 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Супермаркет
+2026-05-11 18:18:03,899 - [INFO] - src.reports - (reports.py).spending_by_category(71) - Найдены транзакции. Передаются для записи в файл.
+2026-05-11 18:18:03,899 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 18:18:03,899 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 18:18:03,899 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 18:18:03,899 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 18:18:03,899 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 18:19:06,475 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 18:19:06,476 - [INFO] - src.reports - (reports.py).spending_by_category(56) - Дата не указана, устанавливаем текущую: 2026-05-11 18:19:06.476770
+2026-05-11 18:19:06,477 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2026-02-11 18:19:06.476770
+2026-05-11 18:19:06,478 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Перевод
+2026-05-11 18:19:06,480 - [INFO] - src.reports - (reports.py).spending_by_category(69) - Не найдены транзакции с указанными параметрами.
+2026-05-11 18:19:06,480 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 18:19:06,484 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 18:19:06,484 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 18:19:06,484 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 18:19:06,484 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'
+2026-05-11 18:19:06,485 - [INFO] - src.reports - (reports.py).wrapper(24) - Запускаем выполнение декорируемой функции: spending_by_category
+2026-05-11 18:19:06,485 - [INFO] - src.reports - (reports.py).spending_by_category(59) - Указана дата: 2020-06-05 00:00:00
+2026-05-11 18:19:06,485 - [INFO] - src.reports - (reports.py).spending_by_category(61) - Установка начала периода: 2020-03-05 00:00:00
+2026-05-11 18:19:06,486 - [INFO] - src.reports - (reports.py).spending_by_category(64) - Фильтруем по временному периоду и категории: Супермаркет
+2026-05-11 18:19:06,488 - [INFO] - src.reports - (reports.py).spending_by_category(71) - Найдены транзакции. Передаются для записи в файл.
+2026-05-11 18:19:06,488 - [INFO] - src.reports - (reports.py).wrapper(26) - Преобразование полученного результата DataFrame в словарь
+2026-05-11 18:19:06,489 - [INFO] - src.reports - (reports.py).wrapper(28) - Проверка передачи параметра "file_name"
+2026-05-11 18:19:06,489 - [INFO] - src.reports - (reports.py).wrapper(34) - Файл не указан, запись по умолчанию.
+2026-05-11 18:19:06,489 - [INFO] - src.reports - (reports.py).wrapper(36) - Выполнение записи в файл: ../data/spending_by_category_report.json.
+2026-05-11 18:19:06,489 - [ERROR] - src.reports - (reports.py).wrapper(40) - Произошла ошибка: [Errno 2] No such file or directory: '../data/spending_by_category_report.json'

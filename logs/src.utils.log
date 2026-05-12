@@ -1,0 +1,133 @@
+2026-05-11 18:03:56,499 - [INFO] - src.utils - (utils.py).get_df_from_file(27) - Запуск функции считывания данных из EXCEL-файла
+2026-05-11 18:03:56,525 - [INFO] - src.utils - (utils.py).get_df_from_file(27) - Запуск функции считывания данных из EXCEL-файла
+2026-05-11 18:03:56,526 - [ERROR] - src.utils - (utils.py).get_df_from_file(30) - Произошла ошибка открытия файла: [Errno 2] No such file or directory: 'nonexistent_file.xlsx'
+2026-05-11 18:03:56,648 - [INFO] - src.utils - (utils.py).stock_prices_api(76) - Запуск функции получения курса акций
+2026-05-11 18:03:56,648 - [INFO] - src.utils - (utils.py).stock_prices_api(79) - Открываем файл user_settings.json для получения списка акций
+2026-05-11 18:03:56,648 - [INFO] - src.utils - (utils.py).stock_prices_api(89) - Получение данных курса акций их внешнего API
+2026-05-11 18:03:58,649 - [INFO] - src.utils - (utils.py).stock_prices_api(95) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:03:58,649 - [INFO] - src.utils - (utils.py).stock_prices_api(89) - Получение данных курса акций их внешнего API
+2026-05-11 18:04:00,650 - [INFO] - src.utils - (utils.py).stock_prices_api(95) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:04:00,653 - [INFO] - src.utils - (utils.py).stock_prices_api(76) - Запуск функции получения курса акций
+2026-05-11 18:04:00,653 - [INFO] - src.utils - (utils.py).stock_prices_api(79) - Открываем файл user_settings.json для получения списка акций
+2026-05-11 18:04:00,654 - [INFO] - src.utils - (utils.py).stock_prices_api(89) - Получение данных курса акций их внешнего API
+2026-05-11 18:04:02,655 - [ERROR] - src.utils - (utils.py).stock_prices_api(98) - Ошибка доступа к внешнему API, код: 404
+2026-05-11 18:04:02,660 - [INFO] - src.utils - (utils.py).currency_conversion(41) - Запуск функции получения текущего курса валют
+2026-05-11 18:04:02,660 - [INFO] - src.utils - (utils.py).currency_conversion(44) - Открываем файл user_settings.json для получения списка валют
+2026-05-11 18:04:02,660 - [INFO] - src.utils - (utils.py).currency_conversion(54) - Получение данных курса валют их внешнего API
+2026-05-11 18:04:02,660 - [INFO] - src.utils - (utils.py).currency_conversion(58) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:04:02,660 - [INFO] - src.utils - (utils.py).currency_conversion(54) - Получение данных курса валют их внешнего API
+2026-05-11 18:04:02,660 - [INFO] - src.utils - (utils.py).currency_conversion(58) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:04:02,664 - [INFO] - src.utils - (utils.py).currency_conversion(41) - Запуск функции получения текущего курса валют
+2026-05-11 18:04:02,664 - [INFO] - src.utils - (utils.py).currency_conversion(44) - Открываем файл user_settings.json для получения списка валют
+2026-05-11 18:04:02,664 - [INFO] - src.utils - (utils.py).currency_conversion(54) - Получение данных курса валют их внешнего API
+2026-05-11 18:04:02,665 - [ERROR] - src.utils - (utils.py).currency_conversion(61) - Ошибка доступа к внешнему API, код: 404
+2026-05-11 18:04:02,665 - [INFO] - src.utils - (utils.py).currency_conversion(54) - Получение данных курса валют их внешнего API
+2026-05-11 18:04:02,665 - [ERROR] - src.utils - (utils.py).currency_conversion(61) - Ошибка доступа к внешнему API, код: 404
+2026-05-11 18:04:52,199 - [INFO] - src.utils - (utils.py).get_df_from_file(27) - Запуск функции считывания данных из EXCEL-файла
+2026-05-11 18:04:52,199 - [ERROR] - src.utils - (utils.py).get_df_from_file(30) - Произошла ошибка открытия файла: [Errno 2] No such file or directory: 'nonexistent_file.xlsx'
+2026-05-11 18:07:14,400 - [INFO] - src.utils - (utils.py).get_df_from_file(27) - Запуск функции считывания данных из EXCEL-файла
+2026-05-11 18:07:14,400 - [ERROR] - src.utils - (utils.py).get_df_from_file(30) - Произошла ошибка открытия файла: [Errno 2] No such file or directory: 'nonexistent_file.xlsx'
+2026-05-11 18:10:54,133 - [INFO] - src.utils - (utils.py).get_df_from_file(27) - Запуск функции считывания данных из EXCEL-файла
+2026-05-11 18:10:54,135 - [ERROR] - src.utils - (utils.py).get_df_from_file(32) - Произошла ошибка открытия файла: [Errno 2] No such file or directory: 'nonexistent_file.xlsx'
+2026-05-11 18:13:07,065 - [INFO] - src.utils - (utils.py).get_df_from_file(27) - Запуск функции считывания данных из EXCEL-файла
+2026-05-11 18:13:07,065 - [ERROR] - src.utils - (utils.py).get_df_from_file(32) - Произошла ошибка открытия файла: [Errno 2] No such file or directory: 'nonexistent_file.xlsx'
+2026-05-11 18:13:29,074 - [INFO] - src.utils - (utils.py).get_df_from_file(27) - Запуск функции считывания данных из EXCEL-файла
+2026-05-11 18:13:29,076 - [INFO] - src.utils - (utils.py).get_df_from_file(27) - Запуск функции считывания данных из EXCEL-файла
+2026-05-11 18:13:29,077 - [ERROR] - src.utils - (utils.py).get_df_from_file(32) - Произошла ошибка открытия файла: [Errno 2] No such file or directory: 'nonexistent_file.xlsx'
+2026-05-11 18:13:29,081 - [INFO] - src.utils - (utils.py).stock_prices_api(78) - Запуск функции получения курса акций
+2026-05-11 18:13:29,081 - [INFO] - src.utils - (utils.py).stock_prices_api(81) - Открываем файл user_settings.json для получения списка акций
+2026-05-11 18:13:29,081 - [INFO] - src.utils - (utils.py).stock_prices_api(91) - Получение данных курса акций их внешнего API
+2026-05-11 18:13:31,082 - [INFO] - src.utils - (utils.py).stock_prices_api(97) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:13:31,083 - [INFO] - src.utils - (utils.py).stock_prices_api(91) - Получение данных курса акций их внешнего API
+2026-05-11 18:13:33,083 - [INFO] - src.utils - (utils.py).stock_prices_api(97) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:13:33,087 - [INFO] - src.utils - (utils.py).stock_prices_api(78) - Запуск функции получения курса акций
+2026-05-11 18:13:33,087 - [INFO] - src.utils - (utils.py).stock_prices_api(81) - Открываем файл user_settings.json для получения списка акций
+2026-05-11 18:13:33,087 - [INFO] - src.utils - (utils.py).stock_prices_api(91) - Получение данных курса акций их внешнего API
+2026-05-11 18:13:35,088 - [ERROR] - src.utils - (utils.py).stock_prices_api(100) - Ошибка доступа к внешнему API, код: 404
+2026-05-11 18:13:35,094 - [INFO] - src.utils - (utils.py).currency_conversion(43) - Запуск функции получения текущего курса валют
+2026-05-11 18:13:35,094 - [INFO] - src.utils - (utils.py).currency_conversion(46) - Открываем файл user_settings.json для получения списка валют
+2026-05-11 18:13:35,094 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:13:35,094 - [INFO] - src.utils - (utils.py).currency_conversion(60) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:13:35,094 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:13:35,095 - [INFO] - src.utils - (utils.py).currency_conversion(60) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:13:35,098 - [INFO] - src.utils - (utils.py).currency_conversion(43) - Запуск функции получения текущего курса валют
+2026-05-11 18:13:35,098 - [INFO] - src.utils - (utils.py).currency_conversion(46) - Открываем файл user_settings.json для получения списка валют
+2026-05-11 18:13:35,098 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:13:35,099 - [ERROR] - src.utils - (utils.py).currency_conversion(63) - Ошибка доступа к внешнему API, код: 404
+2026-05-11 18:13:35,099 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:13:35,099 - [ERROR] - src.utils - (utils.py).currency_conversion(63) - Ошибка доступа к внешнему API, код: 404
+2026-05-11 18:15:13,057 - [INFO] - src.utils - (utils.py).get_df_from_file(27) - Запуск функции считывания данных из EXCEL-файла
+2026-05-11 18:15:13,059 - [INFO] - src.utils - (utils.py).get_df_from_file(27) - Запуск функции считывания данных из EXCEL-файла
+2026-05-11 18:15:13,060 - [ERROR] - src.utils - (utils.py).get_df_from_file(32) - Произошла ошибка открытия файла: [Errno 2] No such file or directory: 'nonexistent_file.xlsx'
+2026-05-11 18:15:13,082 - [INFO] - src.utils - (utils.py).stock_prices_api(78) - Запуск функции получения курса акций
+2026-05-11 18:15:13,083 - [INFO] - src.utils - (utils.py).stock_prices_api(81) - Открываем файл user_settings.json для получения списка акций
+2026-05-11 18:15:13,083 - [INFO] - src.utils - (utils.py).stock_prices_api(91) - Получение данных курса акций их внешнего API
+2026-05-11 18:15:15,083 - [INFO] - src.utils - (utils.py).stock_prices_api(97) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:15:15,084 - [INFO] - src.utils - (utils.py).stock_prices_api(91) - Получение данных курса акций их внешнего API
+2026-05-11 18:15:17,084 - [INFO] - src.utils - (utils.py).stock_prices_api(97) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:15:17,088 - [INFO] - src.utils - (utils.py).stock_prices_api(78) - Запуск функции получения курса акций
+2026-05-11 18:15:17,088 - [INFO] - src.utils - (utils.py).stock_prices_api(81) - Открываем файл user_settings.json для получения списка акций
+2026-05-11 18:15:17,088 - [INFO] - src.utils - (utils.py).stock_prices_api(91) - Получение данных курса акций их внешнего API
+2026-05-11 18:15:19,089 - [ERROR] - src.utils - (utils.py).stock_prices_api(100) - Ошибка доступа к внешнему API, код: 404
+2026-05-11 18:15:19,095 - [INFO] - src.utils - (utils.py).currency_conversion(43) - Запуск функции получения текущего курса валют
+2026-05-11 18:15:19,095 - [INFO] - src.utils - (utils.py).currency_conversion(46) - Открываем файл user_settings.json для получения списка валют
+2026-05-11 18:15:19,095 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:15:19,095 - [INFO] - src.utils - (utils.py).currency_conversion(60) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:15:19,096 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:15:19,096 - [INFO] - src.utils - (utils.py).currency_conversion(60) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:15:19,100 - [INFO] - src.utils - (utils.py).currency_conversion(43) - Запуск функции получения текущего курса валют
+2026-05-11 18:15:19,100 - [INFO] - src.utils - (utils.py).currency_conversion(46) - Открываем файл user_settings.json для получения списка валют
+2026-05-11 18:15:19,100 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:15:19,100 - [ERROR] - src.utils - (utils.py).currency_conversion(63) - Ошибка доступа к внешнему API, код: 404
+2026-05-11 18:15:19,100 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:15:19,100 - [ERROR] - src.utils - (utils.py).currency_conversion(63) - Ошибка доступа к внешнему API, код: 404
+2026-05-11 18:18:03,908 - [INFO] - src.utils - (utils.py).get_df_from_file(27) - Запуск функции считывания данных из EXCEL-файла
+2026-05-11 18:18:03,911 - [INFO] - src.utils - (utils.py).get_df_from_file(27) - Запуск функции считывания данных из EXCEL-файла
+2026-05-11 18:18:03,911 - [ERROR] - src.utils - (utils.py).get_df_from_file(32) - Произошла ошибка открытия файла: [Errno 2] No such file or directory: 'nonexistent_file.xlsx'
+2026-05-11 18:18:03,932 - [INFO] - src.utils - (utils.py).stock_prices_api(78) - Запуск функции получения курса акций
+2026-05-11 18:18:03,932 - [INFO] - src.utils - (utils.py).stock_prices_api(81) - Открываем файл user_settings.json для получения списка акций
+2026-05-11 18:18:03,932 - [INFO] - src.utils - (utils.py).stock_prices_api(91) - Получение данных курса акций их внешнего API
+2026-05-11 18:18:05,933 - [INFO] - src.utils - (utils.py).stock_prices_api(97) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:18:05,933 - [INFO] - src.utils - (utils.py).stock_prices_api(91) - Получение данных курса акций их внешнего API
+2026-05-11 18:18:07,933 - [INFO] - src.utils - (utils.py).stock_prices_api(97) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:18:07,937 - [INFO] - src.utils - (utils.py).stock_prices_api(78) - Запуск функции получения курса акций
+2026-05-11 18:18:07,937 - [INFO] - src.utils - (utils.py).stock_prices_api(81) - Открываем файл user_settings.json для получения списка акций
+2026-05-11 18:18:07,937 - [INFO] - src.utils - (utils.py).stock_prices_api(91) - Получение данных курса акций их внешнего API
+2026-05-11 18:18:09,938 - [ERROR] - src.utils - (utils.py).stock_prices_api(100) - Ошибка доступа к внешнему API, код: 404
+2026-05-11 18:18:09,944 - [INFO] - src.utils - (utils.py).currency_conversion(43) - Запуск функции получения текущего курса валют
+2026-05-11 18:18:09,944 - [INFO] - src.utils - (utils.py).currency_conversion(46) - Открываем файл user_settings.json для получения списка валют
+2026-05-11 18:18:09,945 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:18:09,945 - [INFO] - src.utils - (utils.py).currency_conversion(60) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:18:09,945 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:18:09,945 - [INFO] - src.utils - (utils.py).currency_conversion(60) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:18:09,948 - [INFO] - src.utils - (utils.py).currency_conversion(43) - Запуск функции получения текущего курса валют
+2026-05-11 18:18:09,948 - [INFO] - src.utils - (utils.py).currency_conversion(46) - Открываем файл user_settings.json для получения списка валют
+2026-05-11 18:18:09,948 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:18:09,949 - [ERROR] - src.utils - (utils.py).currency_conversion(63) - Ошибка доступа к внешнему API, код: 404
+2026-05-11 18:18:09,949 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:18:09,949 - [ERROR] - src.utils - (utils.py).currency_conversion(63) - Ошибка доступа к внешнему API, код: 404
+2026-05-11 18:19:06,499 - [INFO] - src.utils - (utils.py).get_df_from_file(27) - Запуск функции считывания данных из EXCEL-файла
+2026-05-11 18:19:06,501 - [INFO] - src.utils - (utils.py).get_df_from_file(27) - Запуск функции считывания данных из EXCEL-файла
+2026-05-11 18:19:06,502 - [ERROR] - src.utils - (utils.py).get_df_from_file(32) - Произошла ошибка открытия файла: [Errno 2] No such file or directory: 'nonexistent_file.xlsx'
+2026-05-11 18:19:06,523 - [INFO] - src.utils - (utils.py).stock_prices_api(78) - Запуск функции получения курса акций
+2026-05-11 18:19:06,523 - [INFO] - src.utils - (utils.py).stock_prices_api(81) - Открываем файл user_settings.json для получения списка акций
+2026-05-11 18:19:06,523 - [INFO] - src.utils - (utils.py).stock_prices_api(91) - Получение данных курса акций их внешнего API
+2026-05-11 18:19:08,524 - [INFO] - src.utils - (utils.py).stock_prices_api(97) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:19:08,524 - [INFO] - src.utils - (utils.py).stock_prices_api(91) - Получение данных курса акций их внешнего API
+2026-05-11 18:19:10,524 - [INFO] - src.utils - (utils.py).stock_prices_api(97) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:19:10,528 - [INFO] - src.utils - (utils.py).stock_prices_api(78) - Запуск функции получения курса акций
+2026-05-11 18:19:10,528 - [INFO] - src.utils - (utils.py).stock_prices_api(81) - Открываем файл user_settings.json для получения списка акций
+2026-05-11 18:19:10,528 - [INFO] - src.utils - (utils.py).stock_prices_api(91) - Получение данных курса акций их внешнего API
+2026-05-11 18:19:12,528 - [ERROR] - src.utils - (utils.py).stock_prices_api(100) - Ошибка доступа к внешнему API, код: 404
+2026-05-11 18:19:12,542 - [INFO] - src.utils - (utils.py).currency_conversion(43) - Запуск функции получения текущего курса валют
+2026-05-11 18:19:12,542 - [INFO] - src.utils - (utils.py).currency_conversion(46) - Открываем файл user_settings.json для получения списка валют
+2026-05-11 18:19:12,542 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:19:12,542 - [INFO] - src.utils - (utils.py).currency_conversion(60) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:19:12,542 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:19:12,542 - [INFO] - src.utils - (utils.py).currency_conversion(60) - Получен доступ к внешнему API, код: 200
+2026-05-11 18:19:12,545 - [INFO] - src.utils - (utils.py).currency_conversion(43) - Запуск функции получения текущего курса валют
+2026-05-11 18:19:12,546 - [INFO] - src.utils - (utils.py).currency_conversion(46) - Открываем файл user_settings.json для получения списка валют
+2026-05-11 18:19:12,546 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:19:12,546 - [ERROR] - src.utils - (utils.py).currency_conversion(63) - Ошибка доступа к внешнему API, код: 404
+2026-05-11 18:19:12,546 - [INFO] - src.utils - (utils.py).currency_conversion(56) - Получение данных курса валют их внешнего API
+2026-05-11 18:19:12,546 - [ERROR] - src.utils - (utils.py).currency_conversion(63) - Ошибка доступа к внешнему API, код: 404
